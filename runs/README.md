@@ -39,6 +39,14 @@ Use fewer files when the decision is simple. Use more files when the work is amb
 8. Record Bob's final decision.
 9. Use `08_execution_log.md` to track Codex work, GitHub changes, public artifacts, and follow-up decisions.
 
+## After A Run
+
+Use `templates/post_run_learning.md` after high-value runs.
+
+Promote lessons only when they will improve future work: a better prompt, sharper template, clearer README instruction, or stronger example.
+
+Do not update the repo after every small run. Small runs can simply end with a logged decision.
+
 ## What Belongs In A Run
 
 Save:

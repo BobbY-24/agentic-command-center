@@ -2,6 +2,8 @@
 
 An operational command center for turning crude ideas into AI-directed work.
 
+Start with [START_HERE.md](START_HERE.md).
+
 This repo is not a documentation showcase. It is a small set of reusable prompts, templates, run folders, and examples that help Bob move from "I have a rough idea" to "I have a decision, an artifact plan, and execution instructions."
 
 ## Core Loop
@@ -22,6 +24,12 @@ Crude idea
 Start with a crude idea, not a polished brief. Use [templates/crude_idea_intake.md](templates/crude_idea_intake.md) if helpful, or paste a messy paragraph directly into [prompts/00_entrepreneur_meta_planner.md](prompts/00_entrepreneur_meta_planner.md).
 
 The goal of the first step is not to get an answer. The goal is to discover the real decision question and route the work to the right AI and human workers.
+
+## Run Modes
+
+- Quick Mode: for small or reversible tasks. Capture the crude idea, generate a meta-plan, and choose the next 3 actions.
+- Standard Mode: for meaningful work that does not need full research. Add tool prompt packets, one or more deal-team memos, and an IC decision.
+- Full IC Mode: for research-heavy, public-facing, high-stakes, or career-relevant work. Add research outputs, Bull/Bear/Operator memos, an IC scorecard, human decision, and execution log.
 
 ## What the Entrepreneur Meta-Planner Does
 
@@ -74,7 +82,7 @@ Use [prompts/02_competing_deal_teams.md](prompts/02_competing_deal_teams.md) and
 
 The Investment Committee compares banker memos. It does not simply average them. It identifies where teams agree, where they disagree, which assumptions matter, what evidence is missing, and what Bob must decide.
 
-Use [prompts/03_investment_committee.md](prompts/03_investment_committee.md) and [templates/ic_decision_packet.md](templates/ic_decision_packet.md).
+Use [prompts/03_investment_committee.md](prompts/03_investment_committee.md), [templates/ic_scorecard.md](templates/ic_scorecard.md), and [templates/ic_decision_packet.md](templates/ic_decision_packet.md).
 
 ## Create a New Run
 

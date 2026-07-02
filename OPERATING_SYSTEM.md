@@ -38,6 +38,21 @@ No final decision without competing options.
 11. GitHub stores the run artifacts and execution history.
 12. If appropriate, LinkedIn distills the completed work into a public post.
 
+## Run Modes
+
+- Quick: for small or reversible tasks. Capture the crude idea, create a meta-plan, and choose the next 3 actions.
+- Standard: for meaningful work that does not require full research. Add tool prompt packets, one or more deal-team memos, and an IC decision.
+- Full IC: for research-heavy, public-facing, high-stakes, or career-relevant work. Add research outputs, Bull/Bear/Operator memos, an IC scorecard, human decision, and execution log.
+
+## Decision Outcomes
+
+- kill: stop because the case is weak or the opportunity cost is too high.
+- park: preserve the idea but take no further action now.
+- gather evidence: collect specific evidence that could change the decision.
+- small test: run a cheap reversible experiment or prototype.
+- commit: proceed with execution, implementation, publication, or a larger investment.
+- reframe: change the decision question, scope, audience, or artifact before continuing.
+
 ## Self-Correction Mechanism
 
 The system corrects itself by forcing structured disagreement before action.
